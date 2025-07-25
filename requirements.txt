@@ -1,0 +1,9 @@
+streamlit==1.32.2
+pandas
+numpy
+matplotlib
+sentence-transformers
+scikit-learn
+pytrends
+openpyxl
+Pygments==2.15.1
